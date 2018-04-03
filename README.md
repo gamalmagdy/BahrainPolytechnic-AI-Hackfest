@@ -9,8 +9,7 @@ This repo is dedicated to Microsoft and Bahrain Polytechnic AI Hackfest | April 
 
 * Azure Subcription
 
-* By now most of you will have an Azure Subscription, if not please contact us
-
+* By now most of you will have an Azure Subscription, if not please contact us on  the slack workspace: https://bahrainaihackfest.slack.com
 
 
 
