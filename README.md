@@ -126,12 +126,13 @@ Use the **Build Option**
 
 > Sample Code
 
-
-
-1. 
-[Bot Framework Zero to Hero](https://github.com/SherifElMahdi/botsfromzerotohero)
+1. Creating a QnA Bot
+(https://www.qnamaker.ai/)
 
 2. 
+[Bot Framework Zero to Hero] By Sheirf El Mahdi and Sara El Sayed (https://github.com/SherifElMahdi/botsfromzerotohero)
+
+3. 
 [Bot Sample](https://github.com/Microsoft/BotBuilder-Samples)
 
 
